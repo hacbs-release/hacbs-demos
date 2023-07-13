@@ -8,5 +8,5 @@ spec:
   name: kubevirt-hyperconverged
   source: my-operator-catalog
   sourceNamespace: openshift-marketplace
-  installPlanApproval: Manual
+  installPlanApproval: Automatic
   startingCSV: kubevirt-hyperconverged-operator.v4.10.2
