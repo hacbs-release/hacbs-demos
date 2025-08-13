@@ -1,0 +1,1 @@
+## THIS REPOSITORY IS DEPRECATED. FOR KONFLUX RELEASE-SERVICE E2E EXAMPLES, SEE [THE RELEASE-SERVICE-CATALOG INTEGRATION-TESTS](https://github.com/konflux-ci/release-service-catalog/tree/development/integration-tests).
